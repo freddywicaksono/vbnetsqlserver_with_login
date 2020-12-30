@@ -1,7 +1,7 @@
 # vbnetsqlserver_with_login
 
 Project ini akan menambahkan fasilitas Login.
-Hal yang perlu diingat adalah saat membuat sebuah tabel di SQL Server tdk boleh menggunakan nama: user, sehingga namanya saya gunakan users atau apapun selain user 
+Hal yang perlu diingat adalah saat membuat sebuah tabel di SQL Server tdk boleh menggunakan kata: user, sehingga namanya saya gunakan users atau apapun selain user 
 karena kata user adalah salah satu keyword di sql server
 
 File yang ditambahkan adalah :
